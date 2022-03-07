@@ -1,0 +1,7 @@
+/node_modules
+
+# local files
+__local__
+.env
+package-lock.json
+yarn-error.log
